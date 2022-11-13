@@ -16,6 +16,27 @@
     <None Remove="Pages\" />
     <None Remove="Pages\Controllers\" />
     <None Remove="Views\" />
+    <None Remove="Views\Analytics\" />
+    <None Remove="Views\Authentication\" />
+    <None Remove="Views\Blogs\" />
+    <None Remove="Views\CRM\" />
+    <None Remove="Views\Calendar\" />
+    <None Remove="Views\Chat\" />
+    <None Remove="Views\ContactList\" />
+    <None Remove="Views\Crypto\" />
+    <None Remove="Views\Ecommerce\" />
+    <None Remove="Views\FAQs\" />
+    <None Remove="Views\Gallery\" />
+    <None Remove="Views\Helpdesk\" />
+    <None Remove="Views\Hospital\" />
+    <None Remove="Views\Invoice\" />
+    <None Remove="Views\Pricing\" />
+    <None Remove="Views\Profile\" />
+    <None Remove="Views\Shared\" />
+    <None Remove="Views\StarterPage\" />
+    <None Remove="Views\TimeLine\" />
+    <None Remove="Views\Tour\" />
+    <None Remove="Views\Treeview\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Apps\" />
@@ -26,5 +47,30 @@
     <Folder Include="Pages\" />
     <Folder Include="Pages\Controllers\" />
     <Folder Include="Views\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="Views\Analytics\" />
+    <Folder Include="Views\Authentication\" />
+    <Folder Include="Views\Blogs\" />
+    <Folder Include="Views\CRM\" />
+    <Folder Include="Views\Calendar\" />
+    <Folder Include="Views\Chat\" />
+    <Folder Include="Views\ContactList\" />
+    <Folder Include="Views\Crypto\" />
+    <Folder Include="Views\Ecommerce\" />
+    <Folder Include="Views\FAQs\" />
+    <Folder Include="Views\Gallery\" />
+    <Folder Include="Views\Helpdesk\" />
+    <Folder Include="Views\Hospital\" />
+    <Folder Include="Views\Invoice\" />
+    <Folder Include="Views\Pricing\" />
+    <Folder Include="Views\Profile\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="Views\StarterPage\" />
+    <Folder Include="Views\TimeLine\" />
+    <Folder Include="Views\Tour\" />
+    <Folder Include="Views\Treeview\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
   </ItemGroup>
 </Project>
